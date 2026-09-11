@@ -18,3 +18,6 @@ Prerequisites
 
     Linux OS (Ubuntu, Debian, CentOS, etc.)
     Python 3 installed.
+    git clone https://github.com/HrithuKrishna/Zcrawler.git
+    chmod +x requirements.sh
+    python3 zcrawl.py <url>
