@@ -21,6 +21,7 @@ This tool is optimized for performance and ease of use, making it ideal for secu
     _______________________________________________________
     
     git clone https://github.com/HrithuKrishna/Zcrawler.git
+    cd zcrawl
     chmod +x requirements.sh
     python3 -m venv venv
     source venv/bin/activate
