@@ -18,8 +18,11 @@ This tool is optimized for performance and ease of use, making it ideal for secu
 
     Linux OS (Ubuntu, Debian, CentOS, etc.)
     Python 3 installed.
+    _______________________________________________________
     
     git clone https://github.com/HrithuKrishna/Zcrawler.git
     chmod +x requirements.sh
-    ./requirements.sh
+    python3 -m venv venv
+    source venv/bin/activate
+    bash requirements.sh
     python3 zcrawl.py <url>
