@@ -1,4 +1,4 @@
-# Zcrawle
+# Zcrawl
 
 A lightweight, single-file Python tool designed for Linux to crawl websites and detect common web application vulnerabilities such as XSS, SQL Injection (SQLi), Open Redirects, and SSL issues.
 
