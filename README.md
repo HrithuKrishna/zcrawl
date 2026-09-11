@@ -20,7 +20,7 @@ This tool is optimized for performance and ease of use, making it ideal for secu
     Python 3 installed.
     _______________________________________________________
     
-    git clone https://github.com/HrithuKrishna/Zcrawler.git
+    git clone https://github.com/HrithuKrishna/zcrawl.git
     cd zcrawl
     chmod +x requirements.sh
     python3 -m venv venv
