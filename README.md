@@ -1,4 +1,4 @@
-# Zcrawler
+# Zcrawle
 
 Thankyou for using Zcrawl!
 
